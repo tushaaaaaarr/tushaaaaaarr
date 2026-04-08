@@ -71,7 +71,7 @@ My focus is on **scalable, real-world AI solutions** — not just prototypes.
 ## 💼 Professional Experience
 
 ### 🏢 Software Engineer — BlueVerse  
-**LTIMindtree | 2024 – Present**
+**LTIMindtree (Now LTM) | 2024 – Present**
 
 - Developed an **Agentic AI SDLC platform** automating end-to-end software delivery.
 - Integrated **LLM agents** (Azure OpenAI, Claude) for:

@@ -90,6 +90,23 @@ My focus is on **scalable, real-world AI solutions** — not just prototypes.
 
 ---
 
+### 🛠️ AI Bug Fixer Agent — Claude-Powered Code Reviewer
+
+An AI-driven debugging assistant that analyzes code, detects issues, and suggests fixes with structured explanations using Claude.
+
+### ✨ Features
+- 🐛 Detects bugs & bad practices in code
+- 🔧 Generates fixed code with clear explanations
+- 🧠 Multiple analysis modes:
+  - Default → fix + explanation
+  - Strict → only fixes
+  - Learn → deep reasoning & concept breakdown
+- 📄 Structured CLAUDE.md for system-level control & consistency
+
+**Tech Stack:** Python (FastAPI), React (JSX), Claude API, REST Architecture
+
+---
+
 ### 🌤️ MausamLive — AI-Powered Weather & AQI Platform
 
 A modern AI-driven weather application providing **real-time forecasts**, **air quality insights**, and **personalized health & safety recommendations** using **Google Gemini API**.
@@ -101,6 +118,20 @@ A modern AI-driven weather application providing **real-time forecasts**, **air 
 - 🎨 Dark/Light mode, geolocation, responsive UI
 
 **Tech Stack:** JavaScript, Node.js, Express, OpenWeather API, Google Gemini 2.0 Flash
+
+---
+
+### 🐍 Snake Rush — Full-Stack Real-Time Game
+
+A production-ready Snake game with dynamic difficulty, real-time gameplay, and persistent leaderboard.
+
+### ✨ Features
+- 🎮 Smooth 60 FPS gameplay with dynamic difficulty scaling
+- 🧠 Collision detection (self, walls, obstacles)
+- 🏆 Persistent leaderboard with thread-safe operations
+- 📱 Mobile-responsive with touch & swipe controls
+
+**Tech Stack:** Python (FastAPI), React, HTML5 Canvas, REST APIs
 
 ---
 

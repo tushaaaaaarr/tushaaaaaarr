@@ -1,186 +1,137 @@
-<h1 align="center">Hi 👋, I'm Tushar Maheshwari</h1>
-<h3 align="center">AI Engineer | GenAI | Agentic AI Systems | Full-Stack | Cloud & DevOps</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVnZWJrZ3p1aHRkbm5ra2F6ZTRkY3dwd2Z5bHV1N3E5b2d4d2N2ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="420"/>
-</p>
+# Tushar Maheshwari
 
----
+### AI Engineer · Agentic Systems · Full-Stack · Cloud-Native
 
-## 🚀 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tushaaaaaarr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://tushaaaaaarr.github.io/tushar-dev-portfolio/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tushar.mah.0111@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledocs&logoColor=white)](#)
 
-I’m a **Software Engineer specializing in Artificial Intelligence and Agentic Systems**, with hands-on experience building **production-grade Generative AI applications**, **LLM-powered automation platforms**, and **cloud-native microservices**.
+<br/>
 
-I work at the intersection of:
-- 🤖 Generative AI & Large Language Models (LLMs)
-- ⚙️ Agentic AI & intelligent automation
-- ☁️ Cloud-native systems (Azure & AWS)
-- 🚀 Full-stack engineering
+*Building production-grade AI systems that actually ship — not just prototypes.*
 
-My focus is on **scalable, real-world AI solutions** — not just prototypes.
+</div>
 
 ---
 
-## 🧠 Core Expertise
+## About
 
-- Generative AI (GenAI), LLMs, Prompt Engineering  
-- Agentic AI Systems, AI Automation Platforms  
-- Azure OpenAI, Google Gemini, Claude  
-- LangChain, LangSmith, Embeddings, Vector Search  
-- FastAPI, Node.js, Express, React.js  
-- System Design, Microservices Architecture  
-- Kubernetes (AKS), Docker, CI/CD, Terraform  
-- Cloud Computing (Azure, AWS)  
+GenAI-focused Software Engineer with **2.5+ years** of experience building **multi-agent AI systems**, **Self-Healing RAG pipelines**, and **cloud-native AI platforms**. Currently powering an Agentic SDLC platform at LTM (formerly LTIMindtree) that cuts development cycles by ~30% through intelligent automation.
+
+I work at the intersection of LLM orchestration, scalable backend architecture, and real-world product delivery — in Agile, production environments.
 
 ---
 
-## 🛠️ Tech Stack
+## Experience
 
-### 👨‍💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
+### Software Engineer — BlueVerse (Agentic AI SDLC Platform)
+**LTM (formerly LTIMindtree)** · Mar 2024 – Present · Noida, India
 
-### 🤖 AI / GenAI
-<p>
-  <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Claude-AWS-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
-</p>
+Core contributor to **BlueVerse**, an enterprise-grade Agentic AI platform automating code generation, testing, documentation, and release workflows end-to-end.
 
-### ⚙️ Backend & Frontend
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge"/>
-</p>
+**Key contributions:**
 
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Azure_AKS-0078D4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge"/>
-</p>
+- **Smart Prompt Framework (SPF)** — Architected a scalable microservice for prompt engineering with dual-layer caching (PostgreSQL + ChromaDB) and a 5-axis quality evaluation engine (Clarity, Completeness, Structure, Actionability, Specificity)
+- **Self-Healing Prompt Engine** — Built a Chain-of-Thought reasoning system that automatically diagnoses, rewrites, re-evaluates, and versions low-quality prompts with full lineage tracking and rollback support
+- **Multi-Agent Data Engineering Pipeline** — Engineered Query Generator, Optimizer, Converter, and Commentor agents supporting 15+ SQL/NoSQL dialects: BigQuery, Snowflake, Redshift, Databricks, PySpark
+- **Infrastructure & DevOps** — Deployed containerized microservices on Azure Kubernetes Service (AKS) with CI/CD via Azure DevOps and Jenkins
+- **Team Lead** — Drove sprint planning, code reviews, CAST/SAST/DAST and SonarQube issue resolution across microservices
+
+> 📈 **~30% improvement in development throughput** through AI-driven automation
 
 ---
 
-## 💼 Professional Experience
+## Featured Projects
 
-### 🏢 Software Engineer — BlueVerse  
-**LTIMindtree (Now LTM) | 2024 – Present**
+### AI Meeting Notes — Action Tracker
+`FastAPI` `LangGraph` `React.js` `PostgreSQL` `ChromaDB` `Groq`
 
-- Developed an **Agentic AI SDLC platform** automating end-to-end software delivery.
-- Integrated **LLM agents** (Azure OpenAI, Claude) for:
-  - Code generation
-  - Test case automation
-  - Documentation synthesis
-- Built **FastAPI + React** microservices deployed on **Azure Kubernetes Service (AKS)**.
-- Implemented CI/CD pipelines using **Azure DevOps**.
-- Applied **process mining (PM4Py)** to identify bottlenecks.
+Architected a 4-agent LangGraph pipeline: **transcription → summarization → action extraction → semantic Q&A**. Implemented Self-Healing RAG with pgvector + ChromaDB hybrid search and Groq streaming.
 
-📈 **Impact:** 30% faster development cycles through AI-driven automation.
+**Sub-2s transcription-to-summary latency** for 60-minute meetings.
 
 ---
 
-## 🔥 Featured AI Projects
+### Multi-Agent AI Workflow Builder
+`React.js` `FastAPI` `LangGraph` `MongoDB` `Docker`
+
+No-code multi-agent orchestration studio with 5 configurable AI personas, a graph-based execution engine, real-time WebSocket streaming, and MongoDB-backed persistence. Drag-and-drop pipeline composition for non-technical users.
 
 ---
 
-### 🛠️ AI Bug Fixer Agent — Claude-Powered Code Reviewer
+### AI Bug Fixer Agent — Claude-Powered Code Reviewer
+`FastAPI` `React` `Claude API`
 
-An AI-driven debugging assistant that analyzes code, detects issues, and suggests fixes with structured explanations using Claude.
-
-### ✨ Features
-- 🐛 Detects bugs & bad practices in code
-- 🔧 Generates fixed code with clear explanations
-- 🧠 Multiple analysis modes:
-  - Default → fix + explanation
-  - Strict → only fixes
-  - Learn → deep reasoning & concept breakdown
-- 📄 Structured CLAUDE.md for system-level control & consistency
-
-**Tech Stack:** Python (FastAPI), React (JSX), Claude API, REST Architecture
+AI debugging assistant that analyzes code, detects bugs and bad practices, and generates structured fix explanations. Supports Default, Strict, and Learn analysis modes.
 
 ---
 
-### 🌤️ MausamLive — AI-Powered Weather & AQI Platform
+### MausamLive — AI-Powered Weather & AQI Platform
+`Node.js` `Express` `Google Gemini 2.0 Flash` `OpenWeather API`
 
-A modern AI-driven weather application providing **real-time forecasts**, **air quality insights**, and **personalized health & safety recommendations** using **Google Gemini API**.
-
-#### ✨ Features
-- 🌍 Real-time weather, 5-day forecast & hourly breakdown
-- 🤖 AI-generated weather summaries & health advisories
-- 🫁 AQI analysis (PM2.5, PM10) using **EPA breakpoint formula**
-- 🎨 Dark/Light mode, geolocation, responsive UI
-
-**Tech Stack:** JavaScript, Node.js, Express, OpenWeather API, Google Gemini 2.0 Flash
+Real-time weather forecasts, 5-day outlooks, EPA-standard AQI analysis (PM2.5, PM10), and AI-generated health advisories. Dark/light mode, geolocation, responsive UI.
 
 ---
 
-### 🐍 Snake Rush — Full-Stack Real-Time Game
+### Indian Language Translator (GenAI)
+`FastAPI` `React` `Google Generative AI`
 
-A production-ready Snake game with dynamic difficulty, real-time gameplay, and persistent leaderboard.
-
-### ✨ Features
-- 🎮 Smooth 60 FPS gameplay with dynamic difficulty scaling
-- 🧠 Collision detection (self, walls, obstacles)
-- 🏆 Persistent leaderboard with thread-safe operations
-- 📱 Mobile-responsive with touch & swipe controls
-
-**Tech Stack:** Python (FastAPI), React, HTML5 Canvas, REST APIs
+Real-time translation across 11+ Indian languages with optimized caching for low-latency responses.
 
 ---
 
-### 🌐 Indian Language Translator (GenAI)
+## Tech Stack
 
-- Real-time translation for **11+ Indian languages**
-- FastAPI backend + React (Material UI)
-- Google Generative AI integration
-- Optimized caching for low-latency responses
+**AI & GenAI**
+`LLMs` `Prompt Engineering` `RAG` `Vector Embeddings` `ChromaDB` `Azure OpenAI` `AWS Bedrock` `LangChain` `LangGraph` `LangSmith`
 
----
+**Languages**
+`Python` `JavaScript` `C++` `SQL`
 
-### 🤖 ProjectX — Intelligent AI Content Processor
+**Backend & Frontend**
+`FastAPI` `Node.js` `Express` `Flask` `React.js`
 
-- AI-powered prompt & content processing system
-- Gemini API + Flask backend
-- Scalable RESTful architecture
+**Cloud & DevOps**
+`Azure AKS` `AWS` `Docker` `Kubernetes` `Terraform` `Jenkins` `CI/CD` `Linux`
 
----
+**Databases**
+`PostgreSQL` `MySQL` `MongoDB` `ChromaDB`
 
-## 📄 Research Publication
-
-📘 **Bitcoin Price Prediction Using LSTM**  
-SSRN | ICCS 2023  
-🔗 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4482735
+**Tools**
+`Git` `Postman` `Swagger` `Pytest` `Figma` `Claude Code` `GitHub Copilot`
 
 ---
 
-## 🎯 Open to Roles
+## Certifications & Achievements
 
-- AI Engineer  
-- GenAI Engineer  
-- ML Engineer  
-- Software Engineer (AI Platforms)  
-- Full-Stack AI Engineer  
+- 🏅 **Anthropic Claude 101** — Verified certification
+- 🏅 **Anthropic Claude Code 101** — Verified certification
+- 🏆 **Best Techie Award** — LTIMindtree Academy (IGNITE program, 98% score in AWS & DevOps)
+- 📘 **Co-author** — *Bitcoin Price Prediction Using LSTM*, SSRN · [ICCS 2023](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4482735)
 
 ---
 
-## 🌐 Connect With Me
+## Education
 
-<p>
-  <a href="https://github.com/tushaaaaaarr"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/in/tushar-dev/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"/></a>
-  <a href="https://tushaaaaaarr.github.io/tushar-dev-portfolio/"><img src="https://img.shields.io/badge/Portfolio-darkgreen?style=for-the-badge"/></a>
-</p>
+**B.Tech in Computer Science & Engineering** · CGPA: 7.8/10
+Lovely Professional University · 2019 – 2023
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
-</p>
+---
 
-⭐ *Building scalable, real-world AI systems.*
+## Open to Roles
 
+`AI Engineer` `GenAI Engineer` `ML Engineer` `Full-Stack AI Engineer` `Software Engineer — AI Platforms`
+
+---
+
+<div align="center">
+
+*Let's build something that matters.*
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-dev/)
+
+</div>
